@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.study</groupId>
+    <groupId>com.fenghuaxueyue</groupId>
     <artifactId>study-system-application</artifactId>
     <packaging>pom</packaging>
     <modules>
