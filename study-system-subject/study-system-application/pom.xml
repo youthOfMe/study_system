@@ -16,6 +16,7 @@
         <module>study-system-application-mq</module>
         <module>study-system-application-job</module>
         <module>study-system-application-controller</module>
+        <module>study-system-application-controller</module>
     </modules>
 
 
