@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <groupId>com.fenghuaxueyue</groupId>
+    <artifactId>study-system-subject</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <description>风花雪月学习系统-题目领域服务</description>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>study-system-subject-api</module>
+        <module>study-system-domain</module>
+        <module>study-system-common</module>
+        <module>study-system-infra</module>
+        <module>study-system-starter</module>
+        <module>study-system-application</module>
+    </modules>
+
+</project>
